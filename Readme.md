@@ -1,4 +1,4 @@
-# Basics of Angular and javascript    
+# Angular Notes
 
 ### What is angular?
 
